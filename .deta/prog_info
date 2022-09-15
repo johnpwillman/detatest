@@ -1,0 +1,1 @@
+{"id":"581a7d90-ef70-4410-8ecc-2034222ccd12","space":29294,"runtime":"python3.9","name":"detatest","path":"cdz0tq","project":"b0zpr65a","account":"144798365827","region":"us-east-1","deps":["fastapi"],"envs":null,"public":true,"log_level":"off","cron":""}
